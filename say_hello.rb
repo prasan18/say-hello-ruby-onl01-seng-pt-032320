@@ -1,1 +1,5 @@
-# Build your say_hello method here
+def greeting
+puts "Hello Gabriela"  
+end
+greeting
+learn submit_tag
