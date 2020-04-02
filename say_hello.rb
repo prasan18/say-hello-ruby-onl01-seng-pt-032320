@@ -1,5 +1,8 @@
-def greeting(name="Gabriela!",language="ruby")
-  puts "Hello #{name}.we heard you are a great #{language} programmer."
+def say_hello(name="Ruby Programmer")
+  puts "Hello #{name}!"
 end
-greeting
-learn submit
+  
+
+
+
+
