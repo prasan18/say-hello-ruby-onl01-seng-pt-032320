@@ -1,5 +1,5 @@
 def say_hello
-puts  "Hello_ruby_programmer"
+puts  "Hello ruby programmer"
 end
 
   
