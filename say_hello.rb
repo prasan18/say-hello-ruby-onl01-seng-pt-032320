@@ -1,5 +1,5 @@
- say_hello ("Gabriela")
-  puts "Hello,#{name}""
+ def say_hello ("Gabriela")
+  puts "Hello,#{name}"
   end
   
   
